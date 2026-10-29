@@ -36,3 +36,5 @@
 
 
 ## UML Class Diagram
+<img width="1253" height="924" alt="UML" src="https://github.com/user-attachments/assets/8d5d5e79-2e33-4c6e-b9cd-91c8f6fc699e" />
+
